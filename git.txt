@@ -1,1 +1,1 @@
-Texto del archivo git-automation
+Texto del archivo git
